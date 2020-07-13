@@ -12,6 +12,8 @@ Scalability and concurrency is what I am fighting for
 
 - 🔭 I’m currently working on `JavaScript`, `TypeScript`,  `Node`
 - 💻 Love & have practice on many NoSQL database such as `redis`, `mongodb`, `elasticsearch`
-- 🌱 I’m currently learning functionnal programming
+- 🌱 I’m currently learning functionnal programming, RxJs, Ramda
 - ⚡ Fun fact: `0.1+0.2 !== 0.3`
+
+
 
