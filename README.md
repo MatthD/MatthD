@@ -15,5 +15,6 @@ Scalability and concurrency is what I am fighting for
 - 🌱 I’m currently learning functionnal programming, RxJs, Ramda
 - ⚡ Fun fact: `0.1+0.2 !== 0.3`
 
+![technos](https://github.com/MatthD/MatthD/raw/master/techs.png)
 
 
