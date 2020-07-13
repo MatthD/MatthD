@@ -1,6 +1,6 @@
 ## Matthias D(eveloper) 👨🏻‍💻
 
-![supercat](./supercat.png)
+![supercat](https://github.com/MatthD/MatthD/raw/master/supercat.png)
 
 ### About me
 
