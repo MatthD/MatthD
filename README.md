@@ -1,6 +1,5 @@
 ## Matthias D(eveloper) 👨🏻‍💻
 
-![supercat](https://github.com/MatthD/MatthD/raw/master/supercat.png)
 
 ### About me
 
@@ -16,5 +15,8 @@ Scalability and concurrency is what I am fighting for
 - ⚡ Fun fact: `0.1+0.2 !== 0.3`
 
 ![technos](https://github.com/MatthD/MatthD/raw/master/techs.png)
+
+![supercat](https://github.com/MatthD/MatthD/raw/master/supercat.png)
+
 
 
