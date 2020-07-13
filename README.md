@@ -1,16 +1,17 @@
-### Hi there 👋
+## Matthias D(eveloper) 👨🏻‍💻
 
-<!--
-**MatthD/MatthD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![supercat](./supercat.png)
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+French developper pasionnated to learn much about web technologies & OPS too .
+Scalability and concurrency is what I am fighting for
+
+
+### My lovely stack ❤️
+
+- 🔭 I’m currently working on `JavaScript`, `TypeScript`,  `Node`
+- 💻 Love & have practice on many NoSQL database such as `redis`, `mongodb`, `elasticsearch`
+- 🌱 I’m currently learning functionnal programming
+- ⚡ Fun fact: `0.1+0.2 !== 0.3`
+
